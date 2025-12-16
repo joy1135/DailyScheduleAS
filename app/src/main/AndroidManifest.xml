@@ -37,5 +37,6 @@
             android:name=".NightActivity"
             android:exported="false" />
     </application>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
 </manifest>
